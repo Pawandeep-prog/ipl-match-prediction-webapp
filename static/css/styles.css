@@ -1,0 +1,3 @@
+.bg{
+    background-image: url({{url_for('static', filename='background.jpg')}});
+}
